@@ -3,7 +3,7 @@
 
 
 
-Hello! My name is Matheus Gress, a 19-year-old Brazilian, embarking on the journey of programming. I'm a beginner in this world of technology, but I'm determined to learn and grow every day.
+Hello! My name is Matheus Gress, a 19 year old Brazilian, embarking on the journey of programming. I'm a beginner in this world of technology, but I'm determined to learn and grow every day.
 
 Currently, I have been dedicating myself to studying through online platforms, such as Udemy, where I have been exploring the fundamentals and practices of languages like C# and C++. I'm always challenging myself to solve problems and develop algorithms in both languages to improve my coding skills. Additionally, I use Beecrowd as a tool to practice and enhance my skills by solving problems daily.
 
