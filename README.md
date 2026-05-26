@@ -35,11 +35,11 @@ Busco evoluir constantemente por meio da faculdade, cursos complementares e proj
 
 ## 📚 Formação e Desenvolvimento
 
-✅ Formação HTML Web Developer - DIO  
-✅ Formação Python Developer - DIO  
-✅ Formação .NET Developer - DIO
-✅ Graduação em Análise e Desenvolvimento de Sistemas - Unisinos  
-✅ Desenvolvimento contínuo através de projetos e desafios práticos
+✅ HTML Web Developer — DIO  
+✅ Python Developer — DIO  
+✅ .NET Developer — DIO  
+✅ Graduação em Análise e Desenvolvimento de Sistemas — Unisinos  
+✅ Desenvolvimento contínuo por meio de projetos e desafios práticos
 
 
 ## 📈 GitHub Stats
