@@ -1,14 +1,58 @@
-### Welcome to Matheus Gress' repertoire 👾
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-augusto-6a99481b5/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_matheus_gress_/?next=%2F)
+# Olá, me chamo Matheus Gress👋
+
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🎓 Aprovado no ENEM e atualmente cursando ADS na Unisinos  
+🚀 Construindo minha carreira na área de tecnologia  
+📚 Estudando programação desde antes da graduação  
+🎯 Em busca da minha primeira oportunidade como desenvolvedor
+
+## 👨‍💻 Sobre mim
+
+Sou apaixonado por tecnologia e aprendizado contínuo.  
+Antes mesmo de iniciar minha graduação, já estudava programação por conta própria, desenvolvendo minha base em lógica, desenvolvimento web e fundamentos de software através de cursos, prática e muita curiosidade.
+
+Após ser aprovado no ENEM, iniciei minha graduação em **Análise e Desenvolvimento de Sistemas na Unisinos**, onde sigo aprofundando meus conhecimentos técnicos e fortalecendo minha preparação para atuar profissionalmente na área.
+
+Busco evoluir constantemente por meio da faculdade, cursos complementares e projetos práticos, transformando aprendizado em experiência real.
+
+## 🚀 Atualmente focado em:
+
+- .NET
+- Angular
+- Java
+- SQL
+- Lógica de Programação
+- Git e GitHub
+
+## 🛠️ Tecnologias e Ferramentas
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 📚 Formação e Desenvolvimento
+
+✅ Formação HTML Web Developer - DIO  
+✅ Formação Python Developer - DIO  
+✅ Formação .NET Developer - DIO
+✅ Graduação em Análise e Desenvolvimento de Sistemas - Unisinos  
+✅ Desenvolvimento contínuo através de projetos e desafios práticos
 
 
+## 📈 GitHub Stats
 
-Hello! My name is Matheus Gress, a 19 year old Brazilian, embarking on the journey of programming. I'm a beginner in this world of technology, but I'm determined to learn and grow every day.
+![GitHub Streak](https://streak-stats.demolab.com?user=MatheusGress&theme=tokyonight)
 
-Currently, I have been dedicating myself to studying through online platforms, such as Udemy, where I have been exploring the fundamentals and practices of languages like C# and C++. I'm always challenging myself to solve problems and develop algorithms in both languages to improve my coding skills. Additionally, I use Beecrowd as a tool to practice and enhance my skills by solving problems daily.
+## 🌐 Contato
 
-As the next step in my course, I am studying Python and Java to further expand my knowledge and capabilities in the programming field.
+📫 Você pode me encontrar aqui:
 
-![Gress GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusGress&show_icons=true&theme=tokyonight)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheusgress/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGress&hide_progress=true)
+---
+
+
+✨ Sempre aprendendo, evoluindo e construindo meu futuro na tecnologia.
